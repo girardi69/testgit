@@ -1,3 +1,4 @@
+Other line of conflict
 Initialization
 First commit
 Second commit
