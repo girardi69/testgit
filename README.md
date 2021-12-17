@@ -1,5 +1,5 @@
 git conflict						Tab first commit
-Other line of conflict  
+Other line of conflict					Tab second commit  
 Initialization  
 First commit  
 Second commit  
