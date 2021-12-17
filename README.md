@@ -1,6 +1,6 @@
 git conflict						Tab first commit
 Other line of conflict					Tab second commit  
-Initialization  
+Initialization 						*** HOTFIX *** 
 First commit  
 Second commit  
 First commit hotfix  
