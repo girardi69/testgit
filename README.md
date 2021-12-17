@@ -1,4 +1,4 @@
-git conflict  
+git conflict						Tab first commit
 Other line of conflict  
 Initialization  
 First commit  
