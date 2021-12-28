@@ -3,7 +3,7 @@ Other line of conflict					Tab second commit
 Initialization 						--- HOTFIX --- 
 First commit 						Working on tk003 
 Second commit 						Working on tk003 
-First commit hotfix  
+First commit hotfix  					---HOTFIX B ---
 First commit tk001  
 Second commit tk002  
 Line of conflict 					Tab tk 004 
