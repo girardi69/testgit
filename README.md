@@ -8,7 +8,7 @@ Second commit 						Working on tk003b
 First commit hotfix  
 First commit tk001  
 Second commit tk002  
-Line of conflict 					Tab tk 004 
+Line of conflict 					Tab tk004 
 Added one line to show a little inprovement on master  	Tab tk005
 Continue to work on Master after tk003
 Added one line to show a little inprovement on master  	Woking on tk005
