@@ -1,7 +1,7 @@
 git conflict						Tab first commit
 Other line of conflict					Tab second commit  
 Initialization 						--- HOTFIX --- 
-First commit 						Working on tk003 
+Fisst commit 						Working on tk003 
 Initialization  
 First commit 						Working on tk003b 
 Second commit 						Working on tk003b 
