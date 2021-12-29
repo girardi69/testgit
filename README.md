@@ -1,6 +1,6 @@
 Other line of conflict
 Initialization
-First commit
+Fisst commit
 Second commit
 First commit hotfix
 First commit tk001
