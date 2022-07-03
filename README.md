@@ -1,4 +1,4 @@
-git conflict						Tab first commit
+   git conflict						Tab first commit
 Other line of conflict					Tab second commit  
 Initialization 						--- HOTFIX --- 
 Fisst commit 						Working on tk003 
